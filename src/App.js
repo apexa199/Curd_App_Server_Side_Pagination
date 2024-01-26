@@ -11,6 +11,7 @@ import TutorialsList from "./components/TutorialsList";
 import { Switch } from "react-router-dom/cjs/react-router-dom.min";
 
 function App() {
+  
   return (
     <div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
